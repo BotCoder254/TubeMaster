@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="256" cy="256" r="248" fill="#2b2b2b" stroke="#4CAF50" stroke-width="16"/>
+    
+    <!-- Play Button Shape -->
+    <path d="M220 180L340 256L220 332V180Z" fill="#4CAF50"/>
+    
+    <!-- Circular Progress Arc -->
+    <path d="M256 48C365.411 48 454 136.589 454 246" stroke="#4CAF50" stroke-width="16" stroke-linecap="round"/>
+    
+    <!-- Download Arrow -->
+    <path d="M256 360V200M256 360L200 304M256 360L312 304" stroke="#4CAF50" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Text Path for "TUBEMASTER PRO" -->
+    <path id="textPath" d="M450 256C450 363.513 363.513 450 256 450C148.487 450 62 363.513 62 256" fill="none"/>
+    <text>
+        <textPath href="#textPath" startOffset="25%" fill="#4CAF50" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+            TUBEMASTER PRO
+        </textPath>
+    </text>
+</svg>
